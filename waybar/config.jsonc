@@ -50,7 +50,7 @@
 		"spacing": 10
 	},
     "clock": {
-        "format": "{:%H:%M  %D %a}"
+        "format": "{:%H:%M %D %a}"
     },
     "cpu": {
         "interval": 15,
